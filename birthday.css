@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+@import url("https://fonts.googleapis.com/css?family=Ka0ushan+Script");
 html, body, .container {
   height: 100%;
   font-family: 'Kaushan Script','Sail', cursive;
@@ -21,7 +21,7 @@ canvas#canvas {
 }
 
 div#beach {
-  background-image: url(https://dl.dropbox.com/s/oe0oce2udq44bj5/beachsil2.png);
+  background-image: url("C:/Users/Dell/Desktop/birthday/A.jpg");
   /* background-size: cover; */
   background-position: bottom right;
   background-size: 1700px;
